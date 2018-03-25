@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/ilauvarov/tst1/fm_unix_trunk/tendlers'
+let g:netrw_dirhist_2='/Users/ilauvarov/tmp/fm_unix_trunk/templates'
+let g:netrw_dirhist_3='/Users/ilauvarov/.vim'
+let g:netrw_dirhist_4='/Users/ilauvarov/edu.whenspeak.ru'
